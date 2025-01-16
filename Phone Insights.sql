@@ -106,5 +106,3 @@ join
 AgeGroup ag 
 on ag.Age = ps.Age
 
--- Rank users within each location based on their screen time, showing their rank, location, and screen time
-
