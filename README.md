@@ -1,2 +1,2 @@
 # SQL-Insight
-Insights using SQL 
+Insights using SQL
